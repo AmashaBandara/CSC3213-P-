@@ -16,3 +16,11 @@ print-stars-using-loop
 
 
 <img width="652" height="67" alt="code13" src="https://github.com/user-attachments/assets/3c706cc1-00df-4d0a-86e5-3abfea19ee03" />
+
+
+
+compare-two-numbers
+
+
+<img width="644" height="61" alt="code14" src="https://github.com/user-attachments/assets/64816d00-e70e-4ae9-9ea4-fc1c319bbe28" />
+

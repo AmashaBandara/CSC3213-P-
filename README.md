@@ -17,4 +17,8 @@ print 'hello' and number
 <img width="642" height="82" alt="code3" src="https://github.com/user-attachments/assets/ee3de6ca-b1c4-4b3c-8314-bc1c6fadcfdc" />
 
 
+Go new Line
 
+
+
+<img width="645" height="85" alt="code4" src="https://github.com/user-attachments/assets/d0f5ac61-f638-4508-83bd-a7807c88b126" />

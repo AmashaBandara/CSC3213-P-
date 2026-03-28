@@ -22,3 +22,12 @@ Go new Line
 
 
 <img width="645" height="85" alt="code4" src="https://github.com/user-attachments/assets/d0f5ac61-f638-4508-83bd-a7807c88b126" />
+
+
+
+print-hello-hi
+
+
+<img width="644" height="81" alt="code5" src="https://github.com/user-attachments/assets/27da7560-94f0-4ea4-ac6a-677e4cebf9f0" />
+
+
